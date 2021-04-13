@@ -1,2 +1,2 @@
 # JogoDosDados-Java
-Jogos dos dados criado com java e JFrame - bem basico
+Jogos dos dados criado com java, JFrame, JPanel etc... - bem basico
